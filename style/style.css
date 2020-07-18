@@ -1,0 +1,193 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+}
+
+
+body {
+    width: 375px;
+    margin: auto;
+}
+
+/*header*/
+.media-dashboard-section {
+    width: 100%;
+    height: 150px;
+
+    padding: 20px;
+    font-weight: 600;
+}
+
+.test {
+    width: auto;
+    height: 50px;
+    background-color: black;
+
+    border: solid 0.3em gold;
+    border-top-color: red;
+}
+
+.dashboard {
+    font-size: 21px;
+    margin-bottom: 15px;
+}
+
+.followers {
+    color: rgba(144, 143, 143, 0.91);
+}
+
+.mode {
+    margin-top: 20px;
+    color: rgba(144, 143, 143, 0.91);
+}
+
+.dashboard-row {
+    align-items: center;
+    width: 320px;
+    margin: 20px 0 0 0;
+}
+
+.social-networks {
+    width: 330px;
+    height: 210px;
+    margin: auto;
+    margin-bottom: 25px;
+    background-color: rgba(168, 208, 229, 0.8);
+    box-shadow: 0px 0px 5px 0px rgba(168, 208, 229, 0.8);
+    border-radius: 5px;
+
+    border: solid 0.3em transparent;
+    border-top-color: red;
+}
+
+
+.card-header {
+    width: 100%;
+    height: 100%;
+    padding-top: 30px;
+}
+
+.tag-header {
+    width: 100px;
+    margin: auto;
+}
+
+.followers-count {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+.followers-followers {
+    color: rgba(0, 0, 0, 0.44);
+    text-align: center;
+    margin: 10px 0 19px 0;
+}
+
+.count-green {
+    text-align: center;
+    color: #16e282;
+}
+
+.count-red {
+    text-align: center;
+    color: #e21616;
+}
+/*header*/
+
+/*section*/
+
+.overview {
+    font-size: 25px;
+    margin-left: 35px;
+    margin-bottom: 35px;
+    color: rgba(0, 0, 0, 0.62);
+}
+
+.cards-views {
+    width: 250px;
+    height: 100px;
+
+    background-color: rgba(168, 208, 229, 0.8);
+    box-shadow: 0px 0px 5px 0px rgba(168, 208, 229, 0.8);
+
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+.cards-header {
+    width: 100%;
+    height: 50px;
+    padding: 15px;
+
+    color: #404040;
+
+}
+
+.img-facebook {
+    margin-right: 3px;
+}
+
+.cards-footer {
+    width: 100%;
+    height: 60px;
+    padding: 15px;
+}
+
+.overview-count-red {
+    float: right;
+    color: red;
+}
+
+.overview-count-green {
+    float: right;
+    color: green;
+}
+
+.cards-stat-count {
+    font-size: 27px;
+}
+
+.img-instagram {
+}
+
+.img-twitter {
+    margin-right: 3px;
+}
+
+.img-youtube {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*section*/
